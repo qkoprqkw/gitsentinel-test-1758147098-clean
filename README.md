@@ -1,2 +1,3 @@
-# gitsentinel-test-1758147098-clean
-Test repository for clean PRs
+# Clean Test Repository
+
+Initial content for clean PR testing.
